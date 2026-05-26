@@ -1,4 +1,4 @@
-# DESIGN OF DIFFERENTIAL AMPLIFIER
+# NON INVERTING AMPLIFIER
 ## AIM:
 To design and construct a inverting, non- inverting and differential amplifiers.
 
